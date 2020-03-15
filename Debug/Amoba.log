@@ -1,5 +1,5 @@
 ﻿  pch.cpp
   Amoba.cpp
-F:\C++\Jatekok\Amoba\Amoba\Amoba\Amoba.cpp(113,20): warning C4018: '<=': signed/unsigned mismatch
-F:\C++\Jatekok\Amoba\Amoba\Amoba\Amoba.cpp(149,22): warning C4018: '<': signed/unsigned mismatch
-  Amoba.vcxproj -> F:\C++\Jatekok\Amoba\Amoba\Amoba\Debug\Amoba.exe
+F:\C++\Jatekok\Bead\Amoba\Amoba\Amoba.cpp(113,20): warning C4018: '<=': signed/unsigned mismatch
+F:\C++\Jatekok\Bead\Amoba\Amoba\Amoba.cpp(149,22): warning C4018: '<': signed/unsigned mismatch
+  Amoba.vcxproj -> F:\C++\Jatekok\Bead\Amoba\Amoba\Debug\Amoba.exe
