@@ -1,2 +1,3 @@
-# Amoba
-amőba játék
+# Amőba
+
+Ez egy c++ ban írt console-os amőba játék.
